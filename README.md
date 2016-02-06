@@ -1,5 +1,7 @@
 # ai
-migrating from https://github.com/wasserfuhr/AllHashes/blob/master/Think.java
+(currently migrating from https://github.com/wasserfuhr/AllHashes/blob/master/Think.java )
+
+cf http://www.slideshare.net/rainer/aigame
 
 ![logo](https://docs.google.com/drawings/d/1fr7KRFP1qd4s-gT_OMmobvdqmnKhZUFGVB0lTYDRzIE/pub?w=320&amp;h=240)
 
